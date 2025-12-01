@@ -6,9 +6,9 @@ Developed interactive Excel-based Sales &amp; Finance Analytics reports using Pi
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/kharvinikhitha98/Excel-Sales-Finance-Analytics/blob/6f6b3c6847f6583bf2a675ea3cfc8a11e25037cc/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/kharvinikhitha98/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/kharvinikhitha98/Excel-Sales-Finance-Analytics/blob/6f6b3c6847f6583bf2a675ea3cfc8a11e25037cc/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/kharvinikhitha98/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
   
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
@@ -22,9 +22,9 @@ Developed interactive Excel-based Sales &amp; Finance Analytics reports using Pi
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/kharvinikhitha98/Excel-Sales-Finance-Analytics/blob/6f6b3c6847f6583bf2a675ea3cfc8a11e25037cc/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/kharvinikhitha98/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/kharvinikhitha98/Excel-Sales-Finance-Analytics/blob/6f6b3c6847f6583bf2a675ea3cfc8a11e25037cc/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/kharvinikhitha98/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
